@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: none
+}
+
+.header {
+    padding: 10px;
+    margin: 10px;
+    height: 114px;
+    width: 1289px;
+    border: 1px solid steelblue;
+    
+    
+}
+
+.header_menu {
+    position: right;
+    padding: 10px;
+    height: 40px;
+    width: 556px;
+    border: 1px solid lightgreen;
+}
+
+.bordermai1 {
+    padding: 10px;
+    margin: 10px;
+    height: 536px;
+    width: 1274px;
+    border: 1px solid #E99C08;
+}
+
+.bordermai2 {
+    padding: 10px;
+    height: 494px;
+    width: 589px;
+    border: 1px solid #BD0EFB;
+}
+
+.borderbttn {
+    position: top;
+    padding: 10px;
+    height: 94px;
+    width: 374px;
+    margin: 10px;
+    border: 2px solid #FF1DA4;
+}
+
+.borderlogo {
+    padding: 10px;
+    margin: 10px;
+    height: 158px;
+    width: 1240px;
+    border: 1px solid darkcyan;
+}
